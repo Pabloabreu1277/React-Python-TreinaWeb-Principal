@@ -1,4 +1,4 @@
-# React-Python-TreinaWeb-Principal - Projeto Final
+# React-Python-TreinaWeb-Principal - Project finished.
 Intensivo semana React da treinaWeb para desenvolvimento web.Veja o resultado do Front-End elaborado:
 
 <div  align="center"> 
